@@ -1,6 +1,5 @@
+[[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://presiskonsult.se/wp-content/uploads/2023/04/PK_Logo_1-e1684231816653.png)|width=100px]](https://presiskonsult.se/)
 
-
-<img src='https://presiskonsult.se/wp-content/uploads/2023/04/PK_Logo_1-e1684231816653.png' width='25'> (https://presiskonsult.se/)
 # Toll fee calculator Saravanan
 A calculator for vehicle toll fees.
 
